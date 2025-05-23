@@ -17,6 +17,8 @@ Analyzing images from optical pooled screening experiments present several key c
 
 StarryNight's architecture enables a research workflow that addresses the requirements of analyzing optical pooled screening data:
 
+FIXME: Comment: Not sure what the above sentence mean. I feel like this section is more about specifying what parameters can be set rather than what the general workflow is?
+ 
 1. **Experiment Configuration** - Specifying the parameters relevant to the research:
     - Experimental design settings
     - Image acquisition parameters
@@ -94,6 +96,8 @@ The layered architecture directly addresses high-priority microscopy research re
 **Architectural Solution**: The layered design enables multiple interaction points - from direct Algorithm Layer access for computational experts to simplified Canvas interfaces that abstract technical details for biologists while maintaining full functionality.
 
 ## Practical Applications of the Architecture
+
+FIXME: Comment: I like this section, this could be a part of the overall readme of starrynight
 
 The layered architecture translates to practical benefits for microscopy research:
 
